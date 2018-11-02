@@ -1,4 +1,4 @@
-
+#gittest
 rm(list=ls())     #czyści workspace
 wd<-"C:/JPiszcz/Jedrzej/R_test" #ustawić working directory
 if(getwd()!=wd){setwd(wd)}
